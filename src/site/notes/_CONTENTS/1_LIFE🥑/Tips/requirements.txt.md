@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/1-life/tips/requirements-txt/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/contents/1-life/tips/requirements-txt/","tags":["tip","pip","python","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
