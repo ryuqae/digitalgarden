@@ -24,6 +24,3 @@ print(SEPARATOR)
 
 - 241F;SYMBOL FOR UNIT SEPARATOR;So;0;ON;;;;;N;GRAPHIC FOR UNIT SEPARATOR;;;;  
   [“␟” U+241F Symbol For Unit Separator Unicode Character (compart.com)](https://www.compart.com/en/unicode/U+241F)
-
-
-다음 페이지 - [[_CONTENTS/0_CAREER🏆/Research Note/정치적 양극화 분석/2_마무리|2_마무리]]
