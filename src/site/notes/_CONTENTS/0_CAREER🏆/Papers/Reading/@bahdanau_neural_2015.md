@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/0-career/papers/reading/bahdanau-neural-2015/","tags":[null,"gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/contents/0-career/papers/reading/bahdanau-neural-2015/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
